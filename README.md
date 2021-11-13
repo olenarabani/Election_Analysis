@@ -11,10 +11,12 @@
   
 ## Resources
  Data: Election_result.csv
- Software: Python 3.7, Git Bush, VS Code
+
+Software: Python 3.7, Git Bush, VS Code
  
 ## Summary 
 # Deliverable 1 
+
 You will earn a perfect score for Deliverable 1 by completing all requirements below:
   1)Candidate Results
       1.1 Total Votes in the election are printed to the terminal. 
@@ -28,14 +30,19 @@ You will earn a perfect score for Deliverable 1 by completing all requirements b
  
  1.1 Total Votes in the election are printed to the terminal.
   ![This is an image](https://github.com/olenarabani/Election_Analysis/blob/main/analysis/VS%20code%20Election%20Results.png)
- 1.2 Each candidate’s total votes and percentage of votes are printed to the terminal.
+
+1.2 Each candidate’s total votes and percentage of votes are printed to the terminal.
   ![This is an image](https://github.com/olenarabani/Election_Analysis/blob/main/analysis/VS%20code%20Each_cadidate.png)
- 1.3 The winner of the election, winning vote count, and winning percentage of votes are printed to the terminal.
+
+1.3 The winner of the election, winning vote count, and winning percentage of votes are printed to the terminal.
   ![This is an image](https://github.com/olenarabani/Election_Analysis/blob/main/analysis/VS%20code%20The%20winner.png)
- 2.1 Each county and its total vote count are printed to the terminal. 
+
+2.1 Each county and its total vote count are printed to the terminal. 
  ![This is an image](https://github.com/olenarabani/Election_Analysis/blob/main/analysis/VS%20code%20Each_County.png)
+ 
  2.2 Each county and its percentage of the total votes are printed to the terminal. 
   ![This is an image](https://github.com/olenarabani/Election_Analysis/blob/main/analysis/VS%20code%20Each_County.png)
+ 
  2.3 The county with the largest number of voters is printed to the terminal. 
   ![This is an image](https://github.com/olenarabani/Election_Analysis/blob/main/analysis/VS%20code%20Largest_County.png)
   
