@@ -76,7 +76,7 @@ You will earn a perfect score for Deliverable 1 by completing all requirements b
         -Percentage of votes each candidate won
         -The winner of the election based on popular vote
  
- #2)Election-Audit Results
+ # 2)Election-Audit Results
     
     2.1How many votes were cast in this congressional election?
       -Total Votes Cast in this congressional election -  369,711
